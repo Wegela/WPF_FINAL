@@ -1,0 +1,12 @@
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\bin\Debug\net6.0\DM_WPF_GIROUX.ModelView.deps.json
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\bin\Debug\net6.0\DM_WPF_GIROUX.ModelView.dll
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\bin\Debug\net6.0\DM_WPF_GIROUX.ModelView.pdb
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.csproj.AssemblyReference.cache
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.AssemblyInfoInputs.cache
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.AssemblyInfo.cs
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.csproj.CoreCompileInputs.cache
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.dll
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\refint\DM_WPF_GIROUX.ModelView.dll
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\DM_WPF_GIROUX.ModelView.pdb
+C:\Users\Giroux\Desktop\DM_WPF_GIROUX-master\DM_WPF_GIROUX.ModelView\obj\Debug\net6.0\ref\DM_WPF_GIROUX.ModelView.dll
